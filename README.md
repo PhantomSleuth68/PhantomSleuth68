@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Linkedin: https://www.linkedin.com/in/nivedita-singh-95a078374/
 
 About Me: <br>
 I am Nivedita Singh from India, <br>
@@ -27,6 +26,8 @@ I am fascinated with the world of tech, especially drawn to AI/ML <br>
 
 Skills: C/C++, basic Python <br>
 In-Progress: DSA, AI/ML <br>
+
+Linkedin: https://www.linkedin.com/in/nivedita-singh-95a078374/
 
 <br>
 
