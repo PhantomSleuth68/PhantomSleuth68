@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Linkedin: https://www.linkedin.com/in/nivedita-singh-95a078374/
 
-##About Me: <br>
+About Me: <br>
 I am Nivedita Singh from India, <br>
 An UG student <br>
 I am fascinated with the world of tech, especially drawn to AI/ML <br>
@@ -30,8 +30,8 @@ In-Progress: DSA, AI/ML <br>
 
 <br>
 
-##My Contribution: 
+My Contribution: <br>
 -In https://github.com/spiritcoffee/web-dev: <br>
-    I , <br>
+    I, <br>
     ->edited the downloads page<br>
-    ->added copyright section
+    ->added copyright section <br>
