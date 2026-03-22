@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Linkedin: https://www.linkedin.com/in/nivedita-singh-95a078374/
+
+About Me: 
+I am Nivedita Singh from India,
+An UG student
+I am fascinated with the world of tech, especially drawn to AI/ML
+
+Skills: C/C++, basic Python
+In-Progress: DSA, AI/ML
