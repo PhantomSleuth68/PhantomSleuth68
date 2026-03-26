@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 
 About Me: <br>
-I am Nivedita Singh from India, <br>
 An UG student <br>
 I am fascinated with the world of tech, especially drawn to AI/ML <br>
 
